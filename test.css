@@ -1,0 +1,306 @@
+body{margin: 0px;
+padding: 0px;}
+
+
+.banner{width: 100%;
+	    background-image: url("hb.png");
+	    height: 105%;
+	    position: relative;
+	    background-size: cover;
+	    padding: 0px;
+	    margin: 0px;
+	    border: 0px;
+
+	}
+.box{
+position: absolute;
+width: 25%;
+
+height: 78%;
+margin-left:950px;
+margin-top: 115px;
+border-radius: 5px;
+background-color: white;
+    box-shadow: 0px 5px 10px #888888;
+    display: all;
+
+}
+.write{ left:300px;	padding:10px;
+}
+.para
+{position: absolute;
+width:65%;
+height: 77.8%; 
+
+float: left;
+background-color: transparent;}
+.write{left: 20px;}
+
+#a{
+
+	margin-left: 55px;
+	font-size: 110px;
+	color:    #0e0333 ;
+
+ ;
+	margin-bottom: 0px; 
+}
+#b{padding: 0px;
+	font-size: 25px;
+	color:white;
+	margin-left: 55px;
+	
+}
+
+
+.menu{width: 100%;
+height: 140px;
+background-color: transparent;}
+.col-md-3{
+	margin-left: 50px;
+	padding-top: 20px;
+}
+*navigation*/
+.main-nav ul  {
+    background:black;
+    width:100%;
+}
+
+.main-nav ul li{
+	padding-top: 30px;
+	font-size: 30px;
+     display:inline-block;
+     text-align: center;
+     margin-left:15px;
+     color: white;
+     cursor: pointer;
+
+
+}
+
+
+.main-nav ul {
+     float:left;
+     margin-left: 200px;
+     text-align:left;
+     
+cursor: pointer;
+}
+
+
+
+
+
+.logo{margin-left: 50px;
+	padding-top: 20px;
+    float:left;
+
+}
+.main-nav ul li:hover {
+	padding:10px;
+    background-color:    #0e0333  ;
+    border-radius: 4px;
+
+}
+h1{margin-left: 11px;
+font-size: 33px;
+color:   #110635  ;}
+#text{width: 82%;
+padding: 15px;
+
+
+
+ }
+ #checkbox{margin-left: 10px; 
+ 	border-radius: 50px}
+ 
+#button {
+    background-color:#d31f13;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    width: 82%;
+}
+
+#dusra-banner{
+	position:all;
+	background-color: white;
+	width: 100%;
+height: 450px;
+
+}
+
+#heading{
+	margin-top: 0;
+	padding-top:30px;
+	padding-left: 55px;
+	font-size:60px;
+	color:  #0e0333 ;
+}
+
+.col-md-2{
+	float: left;
+	width: 23.3%;
+	
+}
+
+#fourdiv{padding-left: 65px;}
+
+#icon{padding-left: 50px; 
+	width:200px;
+height: 200px;}
+
+#twolines{ color:#0e0333; 
+text-align: center;
+padding-top: 15px;
+font-size:20px;}
+
+.semi-footer{ display: inline-grid;
+	position: relative;
+	width: 100%;
+	height: 115px;
+background-color:#0e0333; }
+
+#semi-para{ font-size: 25px;
+text-align: left;
+padding-left: 60px;
+padding-top:1px;
+color:white; 
+width: 60%; }
+#story-btn{
+	margin-left: 900px;
+
+}
+
+#btn{
+width: 20%;
+height:50px;
+	float:left;
+
+}
+
+
+
+
+
+
+#third-banner{
+	position: relative;
+	width: 100%;
+	height: 456px;
+	background-color:  #e4e1ea  ;
+
+}
+
+#pricing{
+	font-size: 60px;
+	color: #0e0333;
+	text-align: center;
+	margin:0px;
+	padding-top: 30px;
+}
+
+#third{
+	width:28.3%;
+	margin:18px;
+
+background-color: white;
+border-radius:5px;}
+
+
+
+#chota-header{
+	font-size: 40px;
+	color: #0e0333;
+	text-align: center;
+	margin:0px;
+	padding-top: 20px;
+}
+
+#bara-header{
+	font-size: 67px;
+	color: #d31f13;
+	text-align: center;
+	margin:0px;
+	
+}
+
+#par{text-align: center;
+color:#0e0333;
+font-size: 18px;}
+
+
+#but{
+	
+	
+	width:40%; 
+	 background-color:#d31f13;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    
+
+}
+
+
+#fourth-banner{
+	margin:0px;
+	width:100%;
+	height: 760px;
+	
+	
+	position: relative;
+	top:o;
+	padding-left:0px;
+}
+
+#do-dabba{
+	width:44%;
+	margin:25px;
+float:left;
+background-color: white;
+
+border-radius:5px;}
+
+
+#tts{text-align: center;
+font-size: 60;
+color:#0e0333; }
+
+#gall{text-align: center;
+font-size: 60;
+color:#d31f13; }
+
+#img3{
+	float: left;
+	height: 20%;
+	width:33%;
+}
+
+
+.line{font-size: 35;
+	color:#0e0333;
+	text-align: center;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.footer{ display: inline-grid;
+	position: relative;
+	width: 100%;
+	height: 150px;
+background-color:#0e0333; }
